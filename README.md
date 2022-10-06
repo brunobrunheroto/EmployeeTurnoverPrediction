@@ -35,8 +35,8 @@
 
 ## <ins>How to use </ins>
 
-- Download the "BeerConsumptionPrediction.ipynb" file on this repository and import it on google colab.
-- Download the Dataset at "https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo" and import it on the "sample_data" folder on google colab.
+- Download the "EmployeeTurnoverPrediction.ipynb" file on this repository and import it on google colab.
+- Download the Dataset at "https://www.kaggle.com/datasets/patelprashant/employee-attrition?datasetId=12204&sortBy=voteCount" and import it on the "sample_data" folder on google colab.
 - Run it.
 
 ## <ins>Heatmap of the correlation between variables and the confusion matrix</ins>

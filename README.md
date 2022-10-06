@@ -1,4 +1,4 @@
-# Beer Consumption Prediction
+# Employee Turnover prediction
 
 <p>Employee turnover prediction is a project done as a solution for the kaggle competition "Employee Attrition", from PRASHANT PATEL, available on: <https://www.kaggle.com/datasets/patelprashant/employee-attrition?datasetId=12204&sortBy=voteCount>, and published as a poster on the 8º Simtec Event on Unicamp.</p>
 
